@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome: MyString
+  descricao: MyText
+  foto: MyString
+  preco_tabela: 
+  preco_promocional: MyString
+  status: 1
+
+two:
+  nome: MyString
+  descricao: MyText
+  foto: MyString
+  preco_tabela: 
+  preco_promocional: MyString
+  status: 1
